@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy">
-    <wsp:All wsp:Usage="Required"/>
+    <wsp:All wsp:Usage="Required">
+        <L7p:CommentAssertion>
+            <L7p:Comment stringValue="add OTK"/>
+        </L7p:CommentAssertion>
+        <L7p:Include>
+            <L7p:PolicyGuid stringValue="be875a50-0d18-4d0f-be9a-e8d2a27d1f80"/>
+            <L7p:PolicyName stringValue="#OTK Authorization Server Configuration"/>
+        </L7p:Include>
+    </wsp:All>
 </wsp:Policy>

@@ -6,5 +6,14 @@
       <l7:Folder folderId="0000000000000000ffffffffffffec76" id="2dab30a8da536da840bc4b98330f7a0d" version="0">
         <l7:Name>example</l7:Name>
       </l7:Folder>
+      <l7:Folder folderId="0000000000000000ffffffffffffec76" id="e001cfd0c1c1ffaa18e187b5e72fc718" version="0">
+        <l7:Name>OTK</l7:Name>
+      </l7:Folder>
+      <l7:Folder folderId="e001cfd0c1c1ffaa18e187b5e72fc718" id="161861da3a78c5dcdc62696d16914781" version="0">
+        <l7:Name>Customizations</l7:Name>
+      </l7:Folder>
+      <l7:Folder folderId="161861da3a78c5dcdc62696d16914781" id="24e6fd7c5b6fb3a96690246c8ac49170" version="0">
+        <l7:Name>Authorization Server</l7:Name>
+      </l7:Folder>
     </l7:Folders>
   </l7:Export>

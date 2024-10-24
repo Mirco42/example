@@ -1,0 +1,44 @@
+{
+    "policy": [
+        {
+            "guid": "be875a50-0d18-4d0f-be9a-e8d2a27d1f80",
+            "policyDetail": {
+                "folderId": "24e6fd7c5b6fb3a96690246c8ac49170",
+                "guid": "be875a50-0d18-4d0f-be9a-e8d2a27d1f80",
+                "name": "#OTK Authorization Server Configuration",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "24e6fd7c5b6fb3a96690246c8ac487aa"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "#OTK Authorization Server Configuration.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "24e6fd7c5b6fb3a96690246c8ac487aa"
+        }
+    ]
+}
