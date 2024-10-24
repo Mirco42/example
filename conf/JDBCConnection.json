@@ -17,7 +17,7 @@
             },
             "extension": {
                 "driverClass": "com.mysql.cj.jdbc.Driver",
-                "jdbcUrl": "jdbc:mysql:\/\/l7gw-8444-db:3307\/ssg",
+                "jdbcUrl": "jdbc:mysql:\/\/l7gw-9444-db:3307\/ssg",
                 "connectionProperties": {
                     "property": [
                         {
@@ -29,8 +29,8 @@
                         {
                             "key": "password",
                             "stringValue": {
-                                "value": "$L7C2$1,PFqDvSL9286utswGUdDJcC1KT6Jp\/PLeIw8wwCykv6o=$pl\/Aq6ZUXtlWAGGevkv9V9Wx0n64oIlc1msKDKa0N5uacVTmO+JI\/IfxLIu4g62ZYx9nTFu1vQh9W\/Xv0wQ4GQ==",
-                                "bundleKey": "$L7C2$9fa1f,beLe\/JIMPgglcVGJPpxgJvJdkY\/QThaJolpjPwz3AD8=$KGpelPUhUlu68VlqWjjvkEtGYrwAy+2B4LbJ8YryxOBgmvhqGu3ytSL4p59en49+9lR2g73gCyDDvmnNeAyVSYjYVpK8vRivQ5Gje36tqpp\/Fv6vbXz2rkQqosZWnzfD"
+                                "value": "$L7C2$1,WF8PHlWsir\/QmX52WHoqusxDZ+w+S8sYwVKJnK5DNmU=$Wq90HqDqtr0c6BSYhn8Qzp1cot0U4yBarR5ckC87iZzevwV7zuvzaGg3bO3ljIVV8BxPLsflzYDfko8psL9kFg==",
+                                "bundleKey": "$L7C2$9fa1f,GUSK+KODrP9pSZqgV0WQS2p49+JKgCR44uGn3lh7z14=$jitlUaJcqD\/Y2siNEm0pNWW98ykgfaUb7tx7n0sKEFzzcfFZU+66QVKGut2I5auM4eaXx\/i7+1BMiZ3\/VGT41JmDn\/lPU+gUjL7wHxSIlzqyZtCi0ICvLXtTQrtgWLp3"
                             }
                         },
                         {
