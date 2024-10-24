@@ -1,0 +1,67 @@
+{
+    "service": [
+        {
+            "serviceDetail": {
+                "folderId": "2dab30a8da536da840bc4b98330f7a0d",
+                "name": "example",
+                "enabled": "true",
+                "serviceMappings": {
+                    "httpMapping": {
+                        "urlPattern": "\/example",
+                        "verbs": {
+                            "verb": [
+                                "GET",
+                                "POST",
+                                "PUT",
+                                "DELETE"
+                            ]
+                        }
+                    }
+                },
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "internal",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "policyRevision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "tracingEnabled",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "wssProcessingEnabled",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "2dab30a8da536da840bc4b98330f7a4f"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "example\/example.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "2dab30a8da536da840bc4b98330f7a4f"
+        }
+    ]
+}
