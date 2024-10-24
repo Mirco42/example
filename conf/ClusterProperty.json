@@ -1,0 +1,39 @@
+{
+    "clusterproperty": [
+        {
+            "name": "otk.dbsystem",
+            "value": "mysql",
+            "id": "0c3729ca9f24cb4f2f55d363c7f7c51a"
+        },
+        {
+            "name": "otk.separate_schemas",
+            "value": "false",
+            "id": "0c3729ca9f24cb4f2f55d363c7f7c522"
+        },
+        {
+            "name": "otk.max_oauth_token_count",
+            "value": "1",
+            "id": "0c3729ca9f24cb4f2f55d363c7f7c527"
+        },
+        {
+            "name": "otk.max_oauth_token_behaviour",
+            "value": "none",
+            "id": "0c3729ca9f24cb4f2f55d363c7f7c52c"
+        },
+        {
+            "name": "otk.cache.default_max_entry_age_s",
+            "value": "300",
+            "id": "7d26b3199c8af6547c045e438ce87b0e"
+        },
+        {
+            "name": "otk.cache.default_max_entry_size",
+            "value": "10000",
+            "id": "7d26b3199c8af6547c045e438ce87b06"
+        },
+        {
+            "name": "otk.cache.default_max_entries",
+            "value": "10000",
+            "id": "7d26b3199c8af6547c045e438ce87afc"
+        }
+    ]
+}
