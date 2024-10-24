@@ -5,12 +5,8 @@
             <L7p:Comment stringValue="add OTK"/>
         </L7p:CommentAssertion>
         <L7p:Include>
-            <L7p:PolicyGuid stringValue="be875a50-0d18-4d0f-be9a-e8d2a27d1f80"/>
-            <L7p:PolicyName stringValue="#OTK Authorization Server Configuration"/>
-        </L7p:Include>
-        <L7p:Include>
-            <L7p:PolicyGuid stringValue="5b805783-1e94-420c-ad50-49dadf1808aa"/>
-            <L7p:PolicyName stringValue="OTK Cookie Management"/>
+            <L7p:PolicyGuid stringValue="1a55cc2a-9996-4978-8473-c2a75e5c59d1"/>
+            <L7p:PolicyName stringValue="#OTK Fail with error message"/>
         </L7p:Include>
     </wsp:All>
 </wsp:Policy>
